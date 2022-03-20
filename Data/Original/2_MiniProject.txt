@@ -1,0 +1,654 @@
+Revision: 3
+Author: 2_whddud
+Date: 2021년 1월 19일 화요일 오전 11:04:02
+Message:
+[포청천팀] 프로젝트 폴더 생성
+----
+Revision: 6
+Author: 2_whddud
+Date: 2021년 1월 19일 화요일 오후 5:29:26
+Message:
+[포청천] 2Q프로젝트 기본 윈도우, 엔진 업로드
+----
+Revision: 14
+Author: 2_whddud
+Date: 2021년 1월 21일 목요일 오전 10:56:01
+Message:
+[포청천] 엔진 업데이트
+----
+Revision: 18
+Author: 2_whddud
+Date: 2021년 1월 21일 목요일 오후 5:08:50
+Message:
+엔진 업데이트
+----
+Revision: 21
+Author: 2_whddud
+Date: 2021년 1월 22일 금요일 오전 10:50:28
+Message:
+엔진, 구조 업데이트함
+----
+Revision: 24
+Author: 2_whddud
+Date: 2021년 1월 23일 토요일 오전 12:20:02
+Message:
+게임 기본 구조 수정
+----
+Revision: 165
+Author: 2_whddud
+Date: 2021년 2월 7일 일요일 오후 7:59:28
+Message:
+엔진 업데이트
+----
+Revision: 179
+Author: 2_whddud
+Date: 2021년 2월 8일 월요일 오전 3:25:25
+Message:
+엔진 업데이트, 구조 수정
+----
+Revision: 184
+Author: 2_whddud
+Date: 2021년 2월 8일 월요일 오전 10:27:17
+Message:
+펭귄스쿼드 폴더명으로인해 펭귄게임과 혼동이있어 폴더명을 바꿉니다. - 정종영팀
+----
+Revision: 187
+Author: 2_whddud
+Date: 2021년 2월 8일 월요일 오전 11:36:08
+Message:
+폴더 세분화 했음
+----
+Revision: 285
+Author: 2_whddud
+Date: 2021년 2월 9일 화요일 오전 10:16:27
+Message:
+GameObject.txt 수정
+----
+Revision: 309
+Author: 2_whddud
+Date: 2021년 2월 9일 화요일 오후 12:38:32
+Message:
+프로젝트 설정 변경, 툴 추가
+----
+Revision: 359
+Author: 2_whddud
+Date: 2021년 2월 9일 화요일 오후 5:22:25
+Message:
+클래스 생성 및 변경
+----
+Revision: 412
+Author: 2_whddud
+Date: 2021년 2월 10일 수요일 오전 9:47:50
+Message:
+엔진 업데이트 및 수정
+----
+Revision: 415
+Author: 2_whddud
+Date: 2021년 2월 10일 수요일 오전 10:29:35
+Message:
+엔진 수정 및 싱글톤으로 바꿈
+----
+Revision: 436
+Author: 2_whddud
+Date: 2021년 2월 10일 수요일 오후 2:34:28
+Message:
+엔진 업데이트 및 수정
+----
+Revision: 469
+Author: 2_whddud
+Date: 2021년 2월 10일 수요일 오후 4:19:07
+Message:
+엔진 데모 프로젝트 생성
+----
+Revision: 470
+Author: 2_whddud
+Date: 2021년 2월 10일 수요일 오후 4:20:21
+Message:
+debug 삭제
+----
+Revision: 480
+Author: 2_whddud
+Date: 2021년 2월 10일 수요일 오후 4:44:02
+Message:
+엔진 Release 수정
+----
+Revision: 483
+Author: 2_whddud
+Date: 2021년 2월 10일 수요일 오후 4:54:23
+Message:
+[정종영] 코딩 가이드라인 수정 후 업로드
+----
+Revision: 513
+Author: 2_whddud
+Date: 2021년 2월 11일 목요일 오전 10:05:58
+Message:
+[정종영] 폴더 명, 폴더 경로 수정 (Data 폴더 생성)
+----
+Revision: 557
+Author: 2_whddud
+Date: 2021년 2월 12일 금요일 오전 10:41:46
+Message:
+엔진 및 엔진 데모 업데이트
+----
+Revision: 590
+Author: 2_whddud
+Date: 2021년 2월 12일 금요일 오후 11:52:11
+Message:
+[정종영] 엔진 및 엔진 데모 업데이트함
+----
+Revision: 638
+Author: 2_whddud
+Date: 2021년 2월 13일 토요일 오후 11:57:39
+Message:
+[정종영] 2월 13일 (토) 게임 구조에 대한 회의 내용 커밋
+----
+Revision: 683
+Author: 2_whddud
+Date: 2021년 2월 15일 월요일 오전 1:44:13
+Message:
+[정종영] ver 0.2 업데이트 - 구조 다시 짜는 중
+----
+Revision: 701
+Author: 2_whddud
+Date: 2021년 2월 15일 월요일 오전 11:02:04
+Message:
+[정종영] 게임 구조 업데이트
+----
+Revision: 704
+Author: 2_whddud
+Date: 2021년 2월 15일 월요일 오전 11:15:44
+Message:
+test 이미지 
+----
+Revision: 705
+Author: 2_whddud
+Date: 2021년 2월 15일 월요일 오전 11:19:53
+Message:
+[정종영] 리소스 매니저.cpp 수정
+----
+Revision: 706
+Author: 2_whddud
+Date: 2021년 2월 15일 월요일 오전 11:20:24
+Message:
+[정종영] txt 파일 삭제
+----
+Revision: 744
+Author: 2_whddud
+Date: 2021년 2월 15일 월요일 오후 3:43:52
+Message:
+[정종영] 엔진 및 엔진데모 업데이트
+----
+Revision: 760
+Author: 2_whddud
+Date: 2021년 2월 15일 월요일 오후 4:11:23
+Message:
+[정종영] 엔진 데모 빠진 부분 추가
+----
+Revision: 775
+Author: 2_whddud
+Date: 2021년 2월 15일 월요일 오후 5:44:33
+Message:
+[정종영] 엔진 및 엔진 데모 업데이트
+----
+Revision: 869
+Author: 2_whddud
+Date: 2021년 2월 16일 화요일 오전 10:49:29
+Message:
+[정종영] 오브젝트 구조 수정함
+----
+Revision: 959
+Author: 2_whddud
+Date: 2021년 2월 16일 화요일 오후 3:31:00
+Message:
+[정종영] 스크립트 예제 업로드
+----
+Revision: 999
+Author: 2_whddud
+Date: 2021년 2월 16일 화요일 오후 6:19:11
+Message:
+[정종영] 엔진 및 엔진데모 업데이트
+----
+Revision: 1000
+Author: 2_whddud
+Date: 2021년 2월 16일 화요일 오후 6:19:37
+Message:
+[정종영] lib 파일 삭제
+----
+Revision: 1133
+Author: 2_whddud
+Date: 2021년 2월 17일 수요일 오후 5:01:21
+Message:
+[정종영] 엔진 및 엔진데모 업데이트
+----
+Revision: 1135
+Author: 2_whddud
+Date: 2021년 2월 17일 수요일 오후 5:02:36
+Message:
+[정종영] 스프라이트 툴 업데이트
+----
+Revision: 1198
+Author: 2_whddud
+Date: 2021년 2월 17일 수요일 오후 9:55:42
+Message:
+[정종영] 구조 수정 중............
+----
+Revision: 1206
+Author: 2_whddud
+Date: 2021년 2월 18일 목요일 오전 1:50:18
+Message:
+[정종영] 게임 구조 업데이트
+----
+Revision: 1227
+Author: 2_whddud
+Date: 2021년 2월 18일 목요일 오전 10:36:39
+Message:
+[정종영] ver0.2 업데이트
+----
+Revision: 1229
+Author: 2_whddud
+Date: 2021년 2월 18일 목요일 오전 10:38:39
+Message:
+[정종영] ver0.3 업데이트
+----
+Revision: 1278
+Author: 2_whddud
+Date: 2021년 2월 18일 목요일 오후 3:01:53
+Message:
+[정종영] 구조 업데이트
+----
+Revision: 1296
+Author: 2_whddud
+Date: 2021년 2월 18일 목요일 오후 4:26:03
+Message:
+[정종영] 게임 엔진 데모 업데이트
+----
+Revision: 1316
+Author: 2_whddud
+Date: 2021년 2월 18일 목요일 오후 5:52:07
+Message:
+[정종영] 구조 업데이트
+----
+Revision: 1394
+Author: 2_whddud
+Date: 2021년 2월 18일 목요일 오후 9:40:10
+Message:
+[정종영] 게임 엔진 업데이트
+----
+Revision: 1489
+Author: 2_whddud
+Date: 2021년 2월 19일 금요일 오후 2:18:21
+Message:
+[정종영] 오브젝트 수정
+----
+Revision: 1577
+Author: 2_whddud
+Date: 2021년 2월 19일 금요일 오후 9:12:49
+Message:
+[장종잉] 엔진 및 엔진 데모 업데이트
+----
+Revision: 1598
+Author: 2_whddud
+Date: 2021년 2월 19일 금요일 오후 11:50:24
+Message:
+[정종영] 리소스 매니저 수정했음
+----
+Revision: 1599
+Author: 2_whddud
+Date: 2021년 2월 20일 토요일 오전 12:28:02
+Message:
+[정종영] 사소한 h, cpp 수정
+----
+Revision: 1714
+Author: 2_whddud
+Date: 2021년 2월 21일 일요일 오전 1:21:58
+Message:
+[정종영] 사운드 매니저 업데이트, 애니메이션 수정
+----
+Revision: 1715
+Author: 2_whddud
+Date: 2021년 2월 21일 일요일 오전 1:22:30
+Message:
+[정종영] 사운드 폴더 삭제
+----
+Revision: 1827
+Author: 2_whddud
+Date: 2021년 2월 21일 일요일 오후 9:01:32
+Message:
+[정종영] 콜라이더 박스 업데이트
+----
+Revision: 1853
+Author: 2_whddud
+Date: 2021년 2월 22일 월요일 오전 12:38:34
+Message:
+[정종영] 버그를 수정
+----
+Revision: 1854
+Author: 2_whddud
+Date: 2021년 2월 22일 월요일 오전 12:40:50
+Message:
+[정종영] 부검실씬 수정함
+----
+Revision: 1855
+Author: 2_whddud
+Date: 2021년 2월 22일 월요일 오전 12:46:36
+Message:
+[정종영] 부검실씬 다시 수정
+----
+Revision: 2101
+Author: 2_whddud
+Date: 2021년 2월 22일 월요일 오후 4:57:58
+Message:
+[정종영] 텍스트 박스 업데이트
+----
+Revision: 2197
+Author: 2_whddud
+Date: 2021년 2월 22일 월요일 오후 9:51:39
+Message:
+[정종영] 버그를 많이 수정했다
+----
+Revision: 2202
+Author: 2_whddud
+Date: 2021년 2월 22일 월요일 오후 10:38:24
+Message:
+[정종영] 씬 버그 수정
+----
+Revision: 2213
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오전 2:02:07
+Message:
+[정종영] 텍스트 박스 업데이트
+----
+Revision: 2305
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오후 12:15:48
+Message:
+[정종영] 텍스트 박스 업데이트, 사운드 리소스 불러오기 성공, 사운드 출력 성공
+----
+Revision: 2350
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오후 2:34:26
+Message:
+[정종영] 인트로 씬 수정, 파일철 클래스 생성
+----
+Revision: 2444
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오후 5:37:07
+Message:
+[정종영] 엔진 업데이트
+----
+Revision: 2446
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오후 5:40:31
+Message:
+[정종영] 색 수정
+----
+Revision: 2471
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오후 6:34:19
+Message:
+[정종영] 작은 수정
+----
+Revision: 2474
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오후 6:39:47
+Message:
+[정종영] 텍스트 박스 사운드 업데이트
+----
+Revision: 2506
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오후 8:09:18
+Message:
+[정종영] 페이드인 페이드아웃 구현
+----
+Revision: 2546
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오후 9:58:36
+Message:
+[정종영] exe 파일 커밋
+----
+Revision: 2548
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오후 9:59:03
+Message:
+[정종영] 엔진 업데이트
+----
+Revision: 2549
+Author: 2_whddud
+Date: 2021년 2월 23일 화요일 오후 10:01:23
+Message:
+[정종영] 블랙화면 커밋
+----
+Revision: 2563
+Author: 2_whddud
+Date: 2021년 2월 24일 수요일 오전 12:27:57
+Message:
+[정종영] 엔진 데모 수정
+----
+Revision: 2734
+Author: 2_whddud
+Date: 2021년 2월 24일 수요일 오후 3:12:19
+Message:
+[정종영] 엔진 수정
+----
+Revision: 2736
+Author: 2_whddud
+Date: 2021년 2월 24일 수요일 오후 3:13:35
+Message:
+[정종영] 충돌 수정
+----
+Revision: 2748
+Author: 2_whddud
+Date: 2021년 2월 24일 수요일 오후 3:49:47
+Message:
+[정종영] 버그 수정
+----
+Revision: 2749
+Author: 2_whddud
+Date: 2021년 2월 24일 수요일 오후 3:51:15
+Message:
+[정종영] 임시 파일
+----
+Revision: 2760
+Author: 2_whddud
+Date: 2021년 2월 24일 수요일 오후 4:04:21
+Message:
+[정종영] 버그 수정
+----
+Revision: 2775
+Author: 2_whddud
+Date: 2021년 2월 24일 수요일 오후 4:24:50
+Message:
+[정종영] 버그 수정
+----
+Revision: 2821
+Author: 2_whddud
+Date: 2021년 2월 24일 수요일 오후 6:10:51
+Message:
+[정종영] 버그 또 수정
+----
+Revision: 2922
+Author: 2_whddud
+Date: 2021년 2월 24일 수요일 오후 9:51:18
+Message:
+[정종영] ver0.4 Executable 파일 생성
+----
+Revision: 2924
+Author: 2_whddud
+Date: 2021년 2월 24일 수요일 오후 9:54:33
+Message:
+[정종영] 화면 창 수정
+----
+Revision: 2960
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오전 1:16:32
+Message:
+[정종영] 버그 수정, 메모리 릭 조금 잡음
+----
+Revision: 3042
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오전 10:34:30
+Message:
+[정종영] 변수들 생성
+----
+Revision: 3060
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오전 11:26:06
+Message:
+[정종영] 변수 생성
+----
+Revision: 3119
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오후 1:53:07
+Message:
+[정종영] 중간 수정
+----
+Revision: 3278
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오후 6:17:04
+Message:
+[정종영] 게임 엔딩 조건 완료
+----
+Revision: 3293
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오후 6:50:35
+Message:
+[정종영] 파일 폴더 업데이트
+----
+Revision: 3296
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오후 6:54:49
+Message:
+[정종영] 파일철 업데이트
+----
+Revision: 3320
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오후 7:30:12
+Message:
+[정종영] 텍스트박스, 파일 폴더 수정
+----
+Revision: 3380
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오후 10:15:07
+Message:
+[정종영] 파일 폴더 수정
+----
+Revision: 3393
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오후 10:53:14
+Message:
+[정종영] 파일철 붙임
+----
+Revision: 3403
+Author: 2_whddud
+Date: 2021년 2월 25일 목요일 오후 11:35:05
+Message:
+[정종영] 버그 수정
+----
+Revision: 3431
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오전 12:51:34
+Message:
+[정종영] ver0.5 업데이트
+----
+Revision: 3441
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오전 1:06:34
+Message:
+[정종영] 릴리즈 모드 업뎃
+----
+Revision: 3512
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오전 2:55:59
+Message:
+[정종영] 버그 수정
+----
+Revision: 3548
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오전 4:12:39
+Message:
+[정종영] 버그 수정
+----
+Revision: 3699
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오전 11:22:03
+Message:
+오타 수정
+----
+Revision: 3708
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오전 11:31:15
+Message:
+버그 수정
+----
+Revision: 3717
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오전 11:46:02
+Message:
+수정
+----
+Revision: 3719
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오전 11:47:04
+Message:
+[정종영] 수정
+----
+Revision: 3727
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오후 12:01:26
+Message:
+재 수정
+----
+Revision: 3732
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오후 12:05:30
+Message:
+센빠이 추가
+----
+Revision: 3756
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오후 12:30:35
+Message:
+[정종영] 버그버그버그버급거브겁그버급거브거븍버그
+----
+Revision: 3793
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오후 1:07:52
+Message:
+[정종영] 버그 수정
+----
+Revision: 3796
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오후 1:09:24
+Message:
+[ver0.7] 수정
+----
+Revision: 3802
+Author: 2_whddud
+Date: 2021년 2월 26일 금요일 오후 1:18:07
+Message:
+[정종영] 최종 수정
+----
+Revision: 3840
+Author: 2_whddud
+Date: 2021년 3월 25일 목요일 오후 4:56:28
+Message:
+0.4ver 업데이트
+----
+Revision: 3911
+Author: 2_whddud
+Date: 2021년 4월 12일 월요일 오전 11:26:33
+Message:
+test.txt 테스트용으로 업로드
+----
+Revision: 3912
+Author: 2_whddud
+Date: 2021년 4월 12일 월요일 오전 11:27:28
+Message:
+test.txt 테스트용 삭제
+----
+Revision: 3915
+Author: 2_whddud
+Date: 2021년 7월 6일 화요일 오후 6:14:25
+Message:
+0.8 업데이트
+----

@@ -1,0 +1,354 @@
+Revision: 77
+Author: 2_whddud
+Date: 2020년 11월 13일 금요일 오후 5:58:32
+Message:
+[달을 품은 윷 선비팀] 프로젝트 파일, 엔진 업로드
+----
+Revision: 160
+Author: 2_whddud
+Date: 2020년 11월 15일 일요일 오후 11:16:57
+Message:
+[달을품은윷선비]엔진 업데이트
+----
+Revision: 161
+Author: 2_whddud
+Date: 2020년 11월 15일 일요일 오후 11:22:15
+Message:
+[달을품은윷선비]엔진 수정
+----
+Revision: 221
+Author: 2_whddud
+Date: 2020년 11월 16일 월요일 오후 2:35:10
+Message:
+[달을품은윷선비] 11.16(월) 오전 작업 후 엔진 업데이트
+----
+Revision: 335
+Author: 2_whddud
+Date: 2020년 11월 16일 월요일 오후 9:36:28
+Message:
+[달을품은윷선비] 11.16(월) 게임 엔진 및 게임 구조 업데이트 (맵, 플레이어, 마우스입력 등등 추가)
+----
+Revision: 391
+Author: 2_whddud
+Date: 2020년 11월 17일 화요일 오후 12:18:59
+Message:
+[윷 선비] 마우스 입력받아서 플레이어가 한칸 씩 전진하는 로직 추가함
+----
+Revision: 416
+Author: 2_whddud
+Date: 2020년 11월 17일 화요일 오후 2:36:15
+Message:
+[윷 선비] 플레이어 이동 애니메이션 추가함
+----
+Revision: 480
+Author: 2_whddud
+Date: 2020년 11월 17일 화요일 오후 5:17:15
+Message:
+[윷 선비] 게임 로직 업데이트 스프라이트 회전기능
+----
+Revision: 504
+Author: 2_whddud
+Date: 2020년 11월 17일 화요일 오후 7:00:43
+Message:
+[윷 선비] 11월 17일(화) 마무리 커밋
+----
+Revision: 612
+Author: 2_whddud
+Date: 2020년 11월 18일 수요일 오후 8:09:38
+Message:
+[윷 선비] 11.18(수) 클래스 정리, 플레이어 이동 등등 작업 후 커밋
+----
+Revision: 639
+Author: 2_whddud
+Date: 2020년 11월 18일 수요일 오후 11:34:07
+Message:
+[윷 선비] 게임 로직 업데이트... 오늘의 마지막 커밋
+----
+Revision: 853
+Author: 2_whddud
+Date: 2020년 11월 19일 목요일 오후 5:22:17
+Message:
+[윷 선비] 전투 씬 구성중
+----
+Revision: 933
+Author: 2_whddud
+Date: 2020년 11월 19일 목요일 오후 9:55:20
+Message:
+[윷 선비] 맵 수정 중 커밋... 스크롤 구현 중
+----
+Revision: 944
+Author: 2_whddud
+Date: 2020년 11월 20일 금요일 오전 2:09:49
+Message:
+[윷 선비] 스크롤 구현중...
+----
+Revision: 1117
+Author: 2_whddud
+Date: 2020년 11월 20일 금요일 오후 4:26:14
+Message:
+[윷 선비] 타일 기반 RPG변환 작업 중... 전투 기초만 구현완료
+----
+Revision: 1197
+Author: 2_whddud
+Date: 2020년 11월 20일 금요일 오후 7:34:22
+Message:
+[윷 선비] 맵 다시 구성하고 스크롤 구현 했음
+----
+Revision: 1376
+Author: 2_whddud
+Date: 2020년 11월 22일 일요일 오전 1:01:37
+Message:
+[윷 선비] UI 업데이트, 공격 애니메이션 구현, 스크롤 수정함
+----
+Revision: 1389
+Author: 2_whddud
+Date: 2020년 11월 22일 일요일 오전 3:14:04
+Message:
+[윷 선비] 버튼 생성, 스텟 생성
+----
+Revision: 1494
+Author: 2_whddud
+Date: 2020년 11월 23일 월요일 오전 12:41:25
+Message:
+[윷 선비] 플레이어끼리 화면 이동 스크롤 구현
+----
+Revision: 1512
+Author: 2_whddud
+Date: 2020년 11월 23일 월요일 오전 2:06:17
+Message:
+[윷 선비] 맵 수정
+----
+Revision: 1778
+Author: 2_whddud
+Date: 2020년 11월 23일 월요일 오후 6:49:19
+Message:
+[윷 선비] 로컬 게임 업데이트, FSM하는중
+----
+Revision: 1799
+Author: 2_whddud
+Date: 2020년 11월 23일 월요일 오후 8:09:11
+Message:
+파일명 수정
+----
+Revision: 1838
+Author: 2_whddud
+Date: 2020년 11월 23일 월요일 오후 9:34:32
+Message:
+[윷 선비] 맵 재구성
+----
+Revision: 1857
+Author: 2_whddud
+Date: 2020년 11월 24일 화요일 오전 12:04:39
+Message:
+[윷 선비]  맵 구성완료
+----
+Revision: 1946
+Author: 2_whddud
+Date: 2020년 11월 24일 화요일 오후 12:32:45
+Message:
+[윷 선비] 엔딩 조건 만듬
+----
+Revision: 1954
+Author: 2_whddud
+Date: 2020년 11월 24일 화요일 오후 12:48:38
+Message:
+[윷 선비] 타이틀 화면 생성
+----
+Revision: 1962
+Author: 2_whddud
+Date: 2020년 11월 24일 화요일 오후 1:36:06
+Message:
+[윷 선비] 파일명 수정
+----
+Revision: 1968
+Author: 2_whddud
+Date: 2020년 11월 24일 화요일 오후 1:46:21
+Message:
+[윷 선비] 맵 적용시킴
+----
+Revision: 2013
+Author: 2_whddud
+Date: 2020년 11월 24일 화요일 오후 3:25:16
+Message:
+[윷 선비] 맵 속성 수정 중
+----
+Revision: 2024
+Author: 2_whddud
+Date: 2020년 11월 24일 화요일 오후 4:02:20
+Message:
+[윷 선비] P vs P 드로우 구현
+----
+Revision: 2066
+Author: 2_whddud
+Date: 2020년 11월 24일 화요일 오후 5:40:38
+Message:
+[윷 선비] 회의 후 업로드
+----
+Revision: 2129
+Author: 2_whddud
+Date: 2020년 11월 24일 화요일 오후 9:19:22
+Message:
+[윷 선비] PvP 구현 애니메이션 남음
+----
+Revision: 2290
+Author: 2_whddud
+Date: 2020년 11월 25일 수요일 오후 1:54:00
+Message:
+[윷 선비] 타일 이벤트 구현
+----
+Revision: 2349
+Author: 2_whddud
+Date: 2020년 11월 25일 수요일 오후 3:47:14
+Message:
+[윷 선비] 스크롤 수정함
+----
+Revision: 2350
+Author: 2_whddud
+Date: 2020년 11월 25일 수요일 오후 3:52:08
+Message:
+[윷 선비] 파일명 수정
+----
+Revision: 2493
+Author: 2_whddud
+Date: 2020년 11월 25일 수요일 오후 9:07:25
+Message:
+[윷 선비] 전투 시스템 구성
+----
+Revision: 2542
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오전 3:54:10
+Message:
+[윷 선비] 전투 버그 수정
+----
+Revision: 2554
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오전 9:59:55
+Message:
+[윷 선비] 파일명 수정
+----
+Revision: 2696
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 2:46:53
+Message:
+[윷 선비] 프로토타입 v0.1
+----
+Revision: 2792
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 5:25:02
+Message:
+[윷 선비] ver 0.2
+----
+Revision: 2815
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 5:56:38
+Message:
+파일명 수정
+----
+Revision: 2828
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 6:11:06
+Message:
+ver0.3 upload
+----
+Revision: 2840
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 6:39:27
+Message:
+파일명 수정
+----
+Revision: 2842
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 6:40:17
+Message:
+파일명 수정
+----
+Revision: 2844
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 6:45:40
+Message:
+파일명수정
+----
+Revision: 2865
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 7:28:47
+Message:
+파일명 수정
+----
+Revision: 2884
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 8:04:31
+Message:
+ver0.4 업데이트
+----
+Revision: 2885
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 8:04:58
+Message:
+[윷 선비] 0.4버전 업데이트
+----
+Revision: 2923
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 9:31:24
+Message:
+ver 0.5 업데이트 게임 테스트용
+----
+Revision: 2924
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 9:33:06
+Message:
+ver 0.5 업데이트
+----
+Revision: 2942
+Author: 2_whddud
+Date: 2020년 11월 26일 목요일 오후 9:48:36
+Message:
+ver 0.6 업데이트 Enemy버그 수정
+----
+Revision: 2956
+Author: 2_whddud
+Date: 2020년 11월 27일 금요일 오전 1:30:01
+Message:
+[윷 선비] 0.7ver 업데이트 버그 수정
+----
+Revision: 2995
+Author: 2_whddud
+Date: 2020년 11월 27일 금요일 오전 6:33:51
+Message:
+버그 수정, 업데이트
+----
+Revision: 3017
+Author: 2_whddud
+Date: 2020년 11월 27일 금요일 오전 9:48:21
+Message:
+버그수정 및 업데이트
+----
+Revision: 3131
+Author: 2_whddud
+Date: 2020년 11월 27일 금요일 오후 12:00:23
+Message:
+[윷 선비] 12시 제출
+----
+Revision: 3151
+Author: 2_whddud
+Date: 2020년 11월 27일 금요일 오후 12:57:16
+Message:
+ver 0.9 업데이트
+----
+Revision: 3178
+Author: 2_whddud
+Date: 2020년 11월 27일 금요일 오후 2:41:05
+Message:
+발표 전 커밋
+----
+Revision: 3185
+Author: 2_whddud
+Date: 2020년 11월 27일 금요일 오후 4:40:04
+Message:
+시연 용 버전
+----
+Revision: 3196
+Author: 2_whddud
+Date: 2021년 1월 10일 목요일 오전 3:59:19
+Message:
+서버없이 플레이 가능한 버전 업데이트
+----
