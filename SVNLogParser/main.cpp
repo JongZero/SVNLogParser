@@ -24,82 +24,19 @@ enum class Type
 };
 
 // 중복 체크
-bool CheckOverlap(const Date& d1, const Date& d2)
-{
-	return ((d1.Year == d2.Year) && (d1.Month == d2.Month) && (d1.Day == d2.Day));
-}
+bool CheckOverlap(const Date& d1, const Date& d2);
 
 // 정렬 함수
-bool FuncSort(const Date& d1, const Date& d2)
-{
-	if (d1.Year == d2.Year)
-	{
-		if (d1.Month == d2.Month)
-		{
-			return d1.Day < d2.Day;
-		}
-		else
-		{
-			return d1.Month < d2.Month;
-		}
-	}
-	else
-	{
-		return d1.Year < d2.Year;
-	}
-}
+bool FuncSort(const Date& d1, const Date& d2);
 
 // 숫자인가?
-bool isNum(const char& c)
-{
-	return (c >= '0' && c <= '9');
-}
+bool IsNum(const char& c);
 
 // C++ 17, 파일의 경로와 이름을 저장한다.
-void LoadFilePathAndName_Recursive(std::wstring folderPath, std::unordered_map<std::string, std::string>& map, int& totalNum)
-{
-	const std::filesystem::path _folderPath{ folderPath.c_str() };
-	std::filesystem::create_directories(_folderPath);
-
-	for (const auto& file : std::filesystem::recursive_directory_iterator{ _folderPath })
-	{
-		std::wstring filePathW = file.path();
-		std::string filePath(filePathW.begin(), filePathW.end());
-		std::string fileName = filePath.substr(filePath.rfind("/") + 1, filePath.rfind("."));
-
-		// 확장자 제거
-		fileName = fileName.substr(0, fileName.size() - 4);
-
-		// file path & file name 저장
-		map[filePath] = fileName;
-
-		totalNum++;
-	}
-}
+void LoadFilePathAndName_Recursive(std::wstring folderPath, std::unordered_map<std::string, std::string>& map, int& totalNum);
 
 // Date를 스트링으로 돌려줌 (2022,3,15 -> 2022-03-15)
-std::string MakeDateStr(const Date& date)
-{
-	std::string str = std::to_string(date.Year);
-	str += "-";
-
-	if (date.Month < 10)
-	{
-		str += "0";
-	}
-
-	str += std::to_string(date.Month);
-	str += "-";
-
-	if (date.Day < 10)
-	{
-		str += "0";
-	}
-	
-	str += std::to_string(date.Day);
-
-	return str;
-}
+std::string MakeDateStr(const Date& date);
 
 int main()
 {
@@ -143,7 +80,7 @@ int main()
 				char nowChar = str[i];
 
 				// 숫자일 경우
-				if (isNum(nowChar))
+				if (IsNum(nowChar))
 				{
 					// 숫자를 파싱하고, 다음에 파싱할 숫자의 타입을 갱신
 					// Year
@@ -157,7 +94,7 @@ int main()
 					{
 						int offset = 1;
 						// 다음 글자도 숫자일 경우
-						if (isNum(str[i + 1]))
+						if (IsNum(str[i + 1]))
 						{
 							offset = 2;
 						}
@@ -276,4 +213,82 @@ int main()
 	writeFile.close();
 
 	system("pause");
+}
+
+// 중복 체크
+bool CheckOverlap(const Date& d1, const Date& d2)
+{
+	return ((d1.Year == d2.Year) && (d1.Month == d2.Month) && (d1.Day == d2.Day));
+}
+
+// 정렬 함수
+bool FuncSort(const Date& d1, const Date& d2)
+{
+	if (d1.Year == d2.Year)
+	{
+		if (d1.Month == d2.Month)
+		{
+			return d1.Day < d2.Day;
+		}
+		else
+		{
+			return d1.Month < d2.Month;
+		}
+	}
+	else
+	{
+		return d1.Year < d2.Year;
+	}
+}
+
+// 숫자인가?
+bool IsNum(const char& c)
+{
+	return (c >= '0' && c <= '9');
+}
+
+// C++ 17, 파일의 경로와 이름을 저장한다.
+void LoadFilePathAndName_Recursive(std::wstring folderPath, std::unordered_map<std::string, std::string>& map, int& totalNum)
+{
+	const std::filesystem::path _folderPath{ folderPath.c_str() };
+	std::filesystem::create_directories(_folderPath);
+
+	for (const auto& file : std::filesystem::recursive_directory_iterator{ _folderPath })
+	{
+		std::wstring filePathW = file.path();
+		std::string filePath(filePathW.begin(), filePathW.end());
+		std::string fileName = filePath.substr(filePath.rfind("/") + 1, filePath.rfind("."));
+
+		// 확장자 제거
+		fileName = fileName.substr(0, fileName.size() - 4);
+
+		// file path & file name 저장
+		map[filePath] = fileName;
+
+		totalNum++;
+	}
+}
+
+// Date를 스트링으로 돌려줌 (2022,3,15 -> 2022-03-15)
+std::string MakeDateStr(const Date& date)
+{
+	std::string str = std::to_string(date.Year);
+	str += "-";
+
+	if (date.Month < 10)
+	{
+		str += "0";
+	}
+
+	str += std::to_string(date.Month);
+	str += "-";
+
+	if (date.Day < 10)
+	{
+		str += "0";
+	}
+
+	str += std::to_string(date.Day);
+
+	return str;
 }
